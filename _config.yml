@@ -1,26 +1,24 @@
 # Site settings
-title: Klise Theme # site title
+title: S4dum4's Blog # site title
 description: >- # site description
-  He's writing in Bahasa about web technology and experience as a journal 
-  for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
+  In this blog I will document everything that I learned in depth in my computer security journey.
 lang: en-US # default lang
 timezone: Asia/Jakarta # set your timezone
-image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
+image: assets/img/s4dum4.png # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Jekyll Klisé # author name
+  name: s4dum4 # author name
   bio: >- # tell to the world
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
-  username: username # general username
-  github: github_username # github username
-  twitter: twitter_username # twitter username
+    Welcome to my blog where you will find everything I have focused on throughout my career as a pentester. If you want to know more about what I learn every day, follow me on <a href="https://twitter.com/s4dum4" target="_blank" rel="noopener">@twitter</a>.
+  username: s4dum4 # general username
+  github: s4dum4 # github username
+  twitter: s4dum4 # twitter username
   facebook: facebook_username # facebook username
-  email: your-email@email.com # email adress
-  avatar: /assets/img/avatar.jpg # change with your own avatar
+  email: s4dum4@gmail.com # email adress
+  avatar: /assets/img/s4dum4.jpg # change with your own avatar
 
 # URL settings
 url: "https://klise.now.sh" #
