@@ -16,3 +16,5 @@ If you have any questions about anything, just send me a message.
 - [s4dum4@gmail.com](mailto:s4dum4@gmail.com)
 - [github.com/s4dum4](https://github.com/s4dum4)
 - [@s4dum4](https://twitter.com/s4dum4)
+- [HackerOne](https://hackerone.com/s4dum4)
+- [YouTube](https://www.youtube.com/@s4dum4)
